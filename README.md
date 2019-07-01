@@ -18,3 +18,4 @@ MLPの重さをGA(遺伝的アルゴリズム)で学習し最適化していく�
 
 ### 参考文献
 [テトリスを学習させてみた](https://www.youtube.com/watch?v=D7rjGRoiCeM&t=436s)
+ 
